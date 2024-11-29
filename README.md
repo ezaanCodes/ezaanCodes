@@ -83,7 +83,7 @@ A full-stack blog application with the following features:
 ## 📫 Let's Connect!  
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/muhammad-ezaan-ali-96401a204/)  
-- **Email:** [jasimbinumar@gmail.com](mailto:izaansatti@gmail.com)  
+- **Email:** [izaansatti@gmail.com](mailto:izaansatti@gmail.com)  
 
 Thanks for visiting my GitHub profile! Let's collaborate and create something amazing together. 🚀  
 
